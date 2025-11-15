@@ -16,7 +16,7 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
 
-  <img align="right" alt="kirito-gif" src="https://tenor.com/view/鳴坂和人なるさかかずと-なるさかかずと-和人-鳴坂-桐ヶ谷-和人-gif-14657869329346715404">
+  <img align="right" alt="kirito-gif" height="150px" width="auto" src="https://media1.tenor.com/m/y2s2fovN3wwAAAAC/%E9%B3%B4%E5%9D%82%E5%92%8C%E4%BA%BA%E3%81%AA%E3%82%8B%E3%81%95%E3%81%8B%E3%81%8B%E3%81%9A%E3%81%A8-%E3%81%AA%E3%82%8B%E3%81%95%E3%81%8B%E3%81%8B%E3%81%9A%E3%81%A8.gif">
  
 </div>
 
