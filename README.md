@@ -25,7 +25,7 @@ void main() {
 }
  ```
 
-## 👾 My Stacs
+## 👾 Some Stats
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andreasgunther&bg_color=0000&color=c0bfbc&line=2ec27e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
