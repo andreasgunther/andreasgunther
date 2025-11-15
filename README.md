@@ -1,14 +1,39 @@
-<p style="text-align: center;">
+<p>
   <a href="https://git.io/typing-svg" target="_blank">
    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&color=F7F7F7&multiline=true&width=450&height=120&lines=%24+whoami;Andreas+Gunther" alt="Title GitHub Readme" />
 </p>
 
-## 👾 Minhas Estatísticas
+## 👽 About me
 
- <div>
+ ```c
+typedef struct whoami {
+    name: char[20];
+    age: int;
+    location: char[20];
+    hobbies: char[20][3]
+} whoami;
+
+void main() {
+    whoami me;
+    
+    me.name = "Andreas Gunther";
+    me.age = 19;
+    me.location = "Guanambi, BA";
+    me.hobbies[][0] = "Read";
+    me.hobbies[][1] = "Code";
+    me.hobbies[][2] = "Travel";
+}
+ ```
+
+## 👾 My Stacs
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andreasgunther&bg_color=0000&color=c0bfbc&line=2ec27e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+ <div display="inline-block">
   <a href="https://github.com/andreasgunther">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreasgunther&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreasgunther&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=andreasgunther&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0000"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreasgunther&layout=compact&langs_count=16&theme=dark&hide_border=true&bg_color=0000"/>
 </div>
 
 ## 🐉 Linguagens e Ferramentas
