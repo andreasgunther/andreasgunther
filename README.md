@@ -4,7 +4,7 @@
 
 <p style="text-align: center;">
   <a href="https://git.io/typing-svg" target="_blank">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&color=F7F7F7&multiline=true&width=650&height=120&lines=%24+whoami;Andreas+Gunther" alt="Title GitHub Readme" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&color=F7F7F7&multiline=true&width=450&height=120&lines=%24+whoami;Andreas+Gunther" alt="Title GitHub Readme" />
 </p>
 
 ## 👾 Minhas Estatísticas
