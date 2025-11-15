@@ -41,11 +41,11 @@ void main() {
 <table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,c"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,figma,javascript"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
