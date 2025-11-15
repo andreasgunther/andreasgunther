@@ -1,5 +1,5 @@
 <p>
-  <img align="right" alt="kirito-gif" height="180px" width="120px" src="https://media.tenor.com/8nm7Ta8ZP74AAAAi/music-happy.gif">
+  <img align="right" alt="kirito-gif" height="180px" width="120px" src="https://media.tenor.com/4IL8QJDz_GsAAAAi/gojo-dance-transparent-gojo.gif">
 </p>
 
 <p style="text-align: center;">
