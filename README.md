@@ -15,8 +15,6 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-
-  <img align="right" alt="kirito-gif" height="150px" width="auto" src="https://media1.tenor.com/m/y2s2fovN3wwAAAAC/%E9%B3%B4%E5%9D%82%E5%92%8C%E4%BA%BA%E3%81%AA%E3%82%8B%E3%81%95%E3%81%8B%E3%81%8B%E3%81%9A%E3%81%A8-%E3%81%AA%E3%82%8B%E3%81%95%E3%81%8B%E3%81%8B%E3%81%9A%E3%81%A8.gif">
  
 </div>
 
@@ -27,6 +25,8 @@
   <a href="https://discord.gg/9ZCWGhh5" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:andreasgleal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andreas-gunther-matos-leal-3834a2219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  <img align="right" alt="kirito-gif" height="180px" width="120px" src="https://media.tenor.com/O5EGwZuV3sEAAAAi/wave-hi.gif">
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
