@@ -7,10 +7,10 @@
 
  ```c
 typedef struct whoami {
-    name: char[20];
-    age: int;
-    location: char[20];
-    hobbies: char[20][3]
+    char name[20];
+    int age;
+    char location[20];
+    char hobbies[20][3];
 } whoami;
 
 void main() {
