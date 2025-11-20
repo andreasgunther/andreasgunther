@@ -59,26 +59,28 @@ void main() {
     <th align="center">OS</th>
   </tr>
   <tr>
-    <td align="center" vertical-align="top">
-      <img height="40" src="https://skillicons.dev/icons?i=c,python&perline=2"/>
+    <td align="center" style="vertical-align: top;">
+      <img height="40" src="https://skillicons.dev/icons?i=c,python"/>
     </td>
-    <td align="center" vertical-align="top">
-      <img height="40" src="https://skillicons.dev/icons?i=javascript,html,css,figma&perline=2"/>
+    <td align="center" style="vertical-align: top;">
+      <img height="40" src="https://skillicons.dev/icons?i=javascript,html"/>
+      <br>
+      <img height="40" src="https://skillicons.dev/icons?i=css,figma"/>
     </td>
-    <td align="center" vertical-align="top">
-      <img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql&perline=2"/>
+    <td align="center" style="vertical-align: top;">
+      <img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql"/>
     </td>
-    <td align="center" vertical-align="top">
-      <img height="40" src="https://skillicons.dev/icons?i=docker&perline=2"/>
+    <td align="center" style="vertical-align: top;">
+      <img height="40" src="https://skillicons.dev/icons?i=docker"/>
     </td>
-    <td align="center" vertical-align="top">
-      <img height="40" src="https://skillicons.dev/icons?i=git,github&perline=2"/>
+    <td align="center" style="vertical-align: top;">
+      <img height="40" src="https://skillicons.dev/icons?i=git,github"/>
     </td>
-    <td align="center" vertical-align="top">
-      <img height="40" src="https://skillicons.dev/icons?i=vscode&perline=2"/>
+    <td align="center" style="vertical-align: top;">
+      <img height="40" src="https://skillicons.dev/icons?i=vscode"/>
     </td>
-    <td align="center" vertical-align="top">
-      <img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu&perline=2"/>
+    <td align="center" style="vertical-align: top;">
+      <img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/>
     </td>
   </tr>
 </table>
