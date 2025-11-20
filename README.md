@@ -31,7 +31,7 @@ void main() {
     me.hobbies[][1] = "Code";
     me.future[] = "I dream of working in another country,
                    learning about the new technologies 
-                   and using them in my daily life."
+                   and using them in my daily life.";
 }
  ```
 
