@@ -49,34 +49,38 @@ void main() {
 ## 🐉 Languages and Tools
 
 <table align="center">
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=c,python"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=javascript,html,css,figma"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
-    </tr>
+  <tr>
+    <th align="center">Backend</th>
+    <th align="center">Frontend</th>
+    <th align="center">Database</th>
+    <th align="center">DevOps</th>
+    <th align="center">Version Control</th>
+    <th align="center">IDEs</th>
+    <th align="center">OS</th>
+  </tr>
+  <tr>
+    <td align="center" vertical-align="top">
+      <img height="40" src="https://skillicons.dev/icons?i=c,python&perline=2"/>
+    </td>
+    <td align="center" vertical-align="top">
+      <img height="40" src="https://skillicons.dev/icons?i=javascript,html,css,figma&perline=2"/>
+    </td>
+    <td align="center" vertical-align="top">
+      <img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql&perline=2"/>
+    </td>
+    <td align="center" vertical-align="top">
+      <img height="40" src="https://skillicons.dev/icons?i=docker&perline=2"/>
+    </td>
+    <td align="center" vertical-align="top">
+      <img height="40" src="https://skillicons.dev/icons?i=git,github&perline=2"/>
+    </td>
+    <td align="center" vertical-align="top">
+      <img height="40" src="https://skillicons.dev/icons?i=vscode&perline=2"/>
+    </td>
+    <td align="center" vertical-align="top">
+      <img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu&perline=2"/>
+    </td>
+  </tr>
 </table>
 
 ## 🔗 Contact me
