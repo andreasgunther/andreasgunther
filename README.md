@@ -7,21 +7,31 @@
 
  ```c
 typedef struct whoami {
-    char name[20];
+    char name[15];
     int age;
-    char location[20];
-    char hobbies[20][3];
+    char location[12];
+    char field[8];
+    char presentation[177];
+    char hobbies[4][2];
+    char future[107];
 } whoami;
 
 void main() {
     whoami me;
     
-    me.name = "Andreas Gunther";
+    me.name = "Andreas";
     me.age = 19;
     me.location = "Guanambi, BA";
+    me.field = "Back-End";
+    me.presentation = "I'm a student of systems analysis and development 
+                       focusing in improve my knowledge about computation.
+                       I like to create modular and clean code. 
+                       Programing in my greatest passion.";
     me.hobbies[][0] = "Read";
     me.hobbies[][1] = "Code";
-    me.hobbies[][2] = "Travel";
+    me.future[] = "I dream of working in another country,
+                   learning about the new technologies 
+                   and using them in my daily life."
 }
  ```
 
@@ -41,11 +51,11 @@ void main() {
 <table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,c"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=c,python"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,figma,javascript"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=javascript,html,css,figma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
@@ -79,6 +89,3 @@ void main() {
 </div>
 
 <br>
-
-> “Better than yesterday,  
-> worse than tomorrow.”
