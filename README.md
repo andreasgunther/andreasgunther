@@ -77,7 +77,7 @@ void main() {
       <img height="40" src="https://skillicons.dev/icons?i=git,github"/>
     </td>
     <td align="center" style="vertical-align: top;">
-      <img height="40" src="https://skillicons.dev/icons?i=vscode"/>
+      <img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm"/>
     </td>
     <td align="center" style="vertical-align: top;">
       <img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/>
