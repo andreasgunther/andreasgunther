@@ -60,7 +60,7 @@ void main() {
   </tr>
   <tr>
     <td align="center" style="vertical-align: top;">
-      <img height="40" src="https://skillicons.dev/icons?i=c,python"/>
+      <img height="40" src="https://skillicons.dev/icons?i=python,java,flask"/>
     </td>
     <td align="center" style="vertical-align: top;">
       <img height="40" src="https://skillicons.dev/icons?i=javascript,html"/>
@@ -68,19 +68,19 @@ void main() {
       <img height="40" src="https://skillicons.dev/icons?i=css,figma"/>
     </td>
     <td align="center" style="vertical-align: top;">
-      <img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql"/>
+      <img height="40" src="https://skillicons.dev/icons?i=mysql,sqlite"/>
     </td>
     <td align="center" style="vertical-align: top;">
-      <img height="40" src="https://skillicons.dev/icons?i=docker"/>
+      <img height="40" src="https://skillicons.dev/icons?i=docker,postman"/>
     </td>
     <td align="center" style="vertical-align: top;">
       <img height="40" src="https://skillicons.dev/icons?i=git,github"/>
     </td>
     <td align="center" style="vertical-align: top;">
-      <img height="40" src="https://skillicons.dev/icons?i=vscode,pycharm"/>
+      <img height="40" src="https://skillicons.dev/icons?i=vscode,idea"/>
     </td>
     <td align="center" style="vertical-align: top;">
-      <img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/>
+      <img height="40" src="https://skillicons.dev/icons?i=ubuntu"/>
     </td>
   </tr>
 </table>
