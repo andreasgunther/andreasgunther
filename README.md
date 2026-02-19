@@ -35,17 +35,6 @@ void main() {
 }
  ```
 
-## 👾 Some Stats
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andreasgunther&bg_color=0000&color=c0bfbc&line=2ec27e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
- <div display="inline-block" align="center">
-  <a href="https://github.com/andreasgunther">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=andreasgunther&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0000"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreasgunther&layout=compact&langs_count=16&theme=dark&hide_border=true&bg_color=0000"/>
-</div>
-
 ## 🐉 Languages and Tools
 
 <table align="center">
@@ -60,7 +49,9 @@ void main() {
   </tr>
   <tr>
     <td align="center" style="vertical-align: top;">
-      <img height="40" src="https://skillicons.dev/icons?i=python,java,flask"/>
+      <img height="40" src="https://skillicons.dev/icons?i=python,java"/>
+      <br>
+      <img height="40" src="https://skillicons.dev/icons?i=flask"/>
     </td>
     <td align="center" style="vertical-align: top;">
       <img height="40" src="https://skillicons.dev/icons?i=javascript,html"/>
