@@ -43,15 +43,12 @@ void main() {
     <th align="center">Frontend</th>
     <th align="center">Database</th>
     <th align="center">DevOps</th>
-    <th align="center">Version Control</th>
-    <th align="center">IDEs</th>
-    <th align="center">OS</th>
   </tr>
   <tr>
     <td align="center" style="vertical-align: top;">
       <img height="40" src="https://skillicons.dev/icons?i=python,java"/>
       <br>
-      <img height="40" src="https://skillicons.dev/icons?i=flask"/>
+      <img height="40" src="https://skillicons.dev/icons?i=flask,django"/>
     </td>
     <td align="center" style="vertical-align: top;">
       <img height="40" src="https://skillicons.dev/icons?i=javascript,html"/>
@@ -60,18 +57,11 @@ void main() {
     </td>
     <td align="center" style="vertical-align: top;">
       <img height="40" src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+      <br>
+      <img height="40" src="https://skillicons.dev/icons?i=postgres"/>
     </td>
     <td align="center" style="vertical-align: top;">
       <img height="40" src="https://skillicons.dev/icons?i=docker,postman"/>
-    </td>
-    <td align="center" style="vertical-align: top;">
-      <img height="40" src="https://skillicons.dev/icons?i=git,github"/>
-    </td>
-    <td align="center" style="vertical-align: top;">
-      <img height="40" src="https://skillicons.dev/icons?i=vscode,idea"/>
-    </td>
-    <td align="center" style="vertical-align: top;">
-      <img height="40" src="https://skillicons.dev/icons?i=ubuntu"/>
     </td>
   </tr>
 </table>
