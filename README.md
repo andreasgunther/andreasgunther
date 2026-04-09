@@ -37,45 +37,9 @@ void main() {
 
 ## 🐉 Languages and Tools
 
-<table align="center">
-  <tr>
-    <th align="center">Backend</th>
-    <th align="center">Frontend</th>
-    <th align="center">Database</th>
-    <th align="center">DevOps</th>
-  </tr>
-  <tr>
-    <td align="center" style="vertical-align: top;">
-      <img height="40" src="https://skillicons.dev/icons?i=python,java"/>
-      <br>
-      <img height="40" src="https://skillicons.dev/icons?i=flask,django"/>
-    </td>
-    <td align="center" style="vertical-align: top;">
-      <img height="40" src="https://skillicons.dev/icons?i=javascript,html"/>
-      <br>
-      <img height="40" src="https://skillicons.dev/icons?i=css,figma"/>
-    </td>
-    <td align="center" style="vertical-align: top;">
-      <img height="40" src="https://skillicons.dev/icons?i=mysql,sqlite"/>
-      <br>
-      <img height="40" src="https://skillicons.dev/icons?i=postgres"/>
-    </td>
-    <td align="center" style="vertical-align: top;">
-      <img height="40" src="https://skillicons.dev/icons?i=docker,postman"/>
-    </td>
-  </tr>
-</table>
-
-### Backend
-<img height="40" src="https://skillicons.dev/icons?i=python,django,flask,java"/>
-
-### Frontend
-<img height="40" src="https://skillicons.dev/icons?i=javascript,html,css,figma"/>
-
-### Database
-<img height="40" src="https://skillicons.dev/icons?i=mysql,postgres"/>
-
-### DevOps
+<img height="40" src="https://skillicons.dev/icons?i=python,java,javascript,django,flask,c"/>
+<img height="40" src="https://skillicons.dev/icons?i=html,css,figma"/>
+<img height="40" src="https://skillicons.dev/icons?i=mysql,postgres,sqlite"/>
 <img height="40" src="https://skillicons.dev/icons?i=docker,postman"/>
 
 ## 🔗 Contact me
