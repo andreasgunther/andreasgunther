@@ -66,6 +66,18 @@ void main() {
   </tr>
 </table>
 
+### Backend
+<img height="40" src="https://skillicons.dev/icons?i=python,django,flask,java"/>
+
+### Frontend
+<img height="40" src="https://skillicons.dev/icons?i=javascript,html,css,figma"/>
+
+### Database
+<img height="40" src="https://skillicons.dev/icons?i=mysql,postgres"/>
+
+### DevOps
+<img height="40" src="https://skillicons.dev/icons?i=docker,postman"/>
+
 ## 🔗 Contact me
 
 <div>
