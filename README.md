@@ -37,7 +37,7 @@ void main() {
 
 ## 🐉 Languages and Tools
 
-<img height="40" src="https://skillicons.dev/icons?i=python,java,javascript,django,flask,c,html,css,figma,mysql,postgres,sqlite,docker,postman"/>
+<img height="40" src="https://skillicons.dev/icons?i=python,java,javascript,django,flask,c,html,css,figma,mysql,postgres,sqlite,docker,postman,arch"/>
 
 ## 🔗 Contact me
 
