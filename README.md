@@ -5,7 +5,7 @@
 
 ## 👽 About me
 
- ```c
+ ```cpp
 typedef struct whoami {
     char name[15];
     int age;
